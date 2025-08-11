@@ -3,12 +3,12 @@ import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 
 // --- STEP 1: Import all the images directly ---
-import rank1 from '../assets/photos/rank1.jpeg';
-import rank2 from '../assets/photos/rank2.jpeg';
-import rank3 from '../assets/photos/rank3.jpeg';
-import rank4 from '../assets/photos/rank4.jpeg';
-import rank5 from '../assets/photos/rank5.jpeg';
-import rank6 from '../assets/photos/rank6.jpeg';
+import rank1 from '/photos/rank1.jpeg';
+import rank2 from '/photos/rank2.jpeg';
+import rank3 from '/photos/rank3.jpeg';
+import rank4 from '/photos/rank4.jpeg';
+import rank5 from '/photos/rank5.jpeg';
+import rank6 from '/photos/rank6.jpeg';
 
 
 // --- STEP 2: Update the array to use the imported images ---
